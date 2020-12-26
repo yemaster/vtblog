@@ -51,7 +51,7 @@ yarn
 
 中文|[English](#english)
 
-## 英语
+## 中文
 
 ### 内容
 
