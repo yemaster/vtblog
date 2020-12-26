@@ -1,0 +1,15 @@
+{
+  "name": "vtblog-frontend",
+  "version": "1.0.0",
+  "description": "A simple blog system, but is a frontend",
+  "main": "index.js",
+  "repository": "https://github.com/yemaster/vtblog.git",
+  "author": "yemaster",
+  "license": "GPLv2",
+  "dependencies": {
+    "vue": "^2.6.12",
+    "vue-loader": "^15.9.6",
+    "webpack": "^5.11.0",
+    "gulp": "^4.0.2"
+  }
+}
